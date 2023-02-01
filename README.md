@@ -10,6 +10,13 @@
 * _the major technologies_
 * _you used in your project_
 * _here_
+* CSS
+* HTML
+* JavaScript
+* Node.js
+* Jest
+* Webpack
+* npm
 
 ## Description
 
