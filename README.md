@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Zachary Cipolletta
 
 ## Technologies Used
 
@@ -42,3 +42,4 @@
 * _should go here_
 
 ## License
+MIT
