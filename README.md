@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Zachary Cipolletta
 
 ## Technologies Used
 
@@ -30,11 +30,13 @@
 * If using an API remember to add instructions for creating a .env file and adding it to your .gitignore + instructions for getting and setting up an API key
 * Include all steps for getting a key — from the link to sign up for an account to any steps to getting an API key to the name of the API key variables that should be added to the .env file. Including accurate instructions for getting and setting up an API key
 
-* Installing all packages with $ npm install.
-* Building the project using webpack with $ npm run build
-* Starting a development server with $ npm run start
-* Linting JS files in the src folder with $ npm run lint
-* Running tests with Jest using $ npm run test*
+* Clone repository to your desktop
+* Navigate to the top level of the directory
+* Install all packages with $ npm install.
+* Build the project using webpack with $ npm run build
+* If you wish to lint JS files in the src folder, run $ npm run lint
+* All business logic should be tested and pass Jest using $ npm run test
+* Start a development server with $ npm run start
 
 ## Known Bugs
 
@@ -42,3 +44,4 @@
 * _should go here_
 
 ## License
+MIT
